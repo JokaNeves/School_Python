@@ -1,1 +1,1 @@
-# School_Python
+Intrudução a apendizagem de Python, 12º Aplicaçoes Informaticas
