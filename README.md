@@ -1,6 +1,8 @@
 Python, 12º Aplicaçoes Informaticas
-
--[Aulas](aulas.md)
+[ Sumários / Desenvolvimentos ]
+--> [Aulas](aulas.md)
 
 [Trabalhos]
+
+--> (Ficha-1)[
 
