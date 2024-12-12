@@ -24,5 +24,5 @@ Python, 12º Aplicaçoes Informaticas
 
 --> [Mini-projeto-1](Fluxo_Pseudo01.jpeg)
 
---> [Mini-projeto-2](Fluxo_Pseudo01.jpeg)
+--> [Mini-projeto-2](mini-projeto-forca.py)
 
