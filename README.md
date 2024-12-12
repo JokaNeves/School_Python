@@ -4,7 +4,9 @@ Python, 12º Aplicaçoes Informaticas
 
 [Trabalhos]
 
---> [Ficha-1](Pseudo_Fluxo01.jpeg)
+--> [Ficha-1(FT1)](Pseudo_Fluxo01.jpeg)
+
+--> [Ficha-1(FT2)](Pseudo_Fluxo02.jpeg)
 
 --> [Ficha-2](ficha2.py)
 
