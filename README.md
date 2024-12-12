@@ -22,7 +22,7 @@ Python, 12º Aplicaçoes Informaticas
 
 --> [Ficha-7](ficha7.py)
 
---> [Mini-projeto-1](Fluxo_Pseudo01.jpeg)
+--> [Mini-projeto-1](mini-projeto-papeltesoura.py)
 
 --> [Mini-projeto-2](mini-projeto-forca.py)
 
