@@ -4,5 +4,5 @@ Python, 12º Aplicaçoes Informaticas
 
 [Trabalhos]
 
---> (Ficha-1)[
+--> (Ficha-1)[Fluxo_Pseudo01.jpeg]
 
