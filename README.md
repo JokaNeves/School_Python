@@ -26,3 +26,7 @@ Python, 12º Aplicaçoes Informaticas
 
 --> [Mini-projeto-2](mini-projeto-forca.py)
 
+--> [Ficha8](ficha8E.py)
+
+--> [Ficha-9](ficha9E.py)
+
