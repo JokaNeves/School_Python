@@ -1,3 +1,6 @@
+--------------
+- 1º Período -
+--------------
 1ª SEMANA --> [ 18/09/24 - 20/09/24 ]
 
 Na disciplina de Aplicações Informáticas B, começámos a explorar os diversos conteúdos previstos, com o foco inicial na programação em Python, que será aprofundada ao longo do primeiro semestre. As primeiras aulas foram dedicadas à introdução aos conceitos fundamentais de algoritmos, recorrendo a ferramentas como pseudocódigo e fluxogramas para planear e estruturar soluções de forma lógica. Além disso, realizámos uma ficha de diagnóstico que abordou conteúdos básicos de multimédia e programação, permitindo avaliar o nosso nível de conhecimento inicial nestas áreas.
@@ -49,7 +52,6 @@ Agora, preciso de me concentrar em finalizar o portfólio e concluir os exercíc
 
 9ª SEMANA --> [ 13/11/24 e 15/11/24 ]
 
-
 O professor lançou um novo desafio, que consiste na resolução de problemas de programação utilizando a biblioteca random. Esta biblioteca permite a geração aleatória de números, o que é bastante útil no desenvolvimento de jogos, como por exemplo o Batalha Naval ou o Jogo do Número Oculto. Durante a aula de sexta-feira, também participámos na atividade Bebras, que consistia numa série de desafios mentais, sendo que a dificuldade aumentava progressivamente à medida que avançávamos na ficha.
 Achei a atividade Bebras bastante interessante, mas também bastante complexa. Os desafios exigiram que eu me esforçasse bastante para resolver cada um deles, o que me fez puxar pela cabeça e testar as minhas habilidades de raciocínio lógico.
 Quanto à ficha sobre a biblioteca random, até agora compreendi bem o conceito e consegui resolver os primeiros exercícios sem grandes dificuldades, o que tem sido positivo para o meu progresso.
@@ -69,10 +71,71 @@ O maior obstáculo foram os erros, muitas vezes simples, que me desmotivaram um 
 
 12ª SEMANA --> [ 04/12/24 e 06/12/24 ]
 
-
 Depois de enfrentar alguns desafios no Mini-projeto 1, comecei a trabalhar na ficha sobre strings. Até agora, não achei que as strings fossem muito complicadas e percebo que são uma parte fundamental na programação, especialmente para manipulação de texto.
 Consegui terminar os 10 exercícios obrigatórios na aula de sexta-feira, com a ajuda do professor, o que me permitiu solidificar o meu entendimento sobre o tema. Agora, é hora de começar a pensar no próximo mini-projeto, organizando as ideias e refletindo sobre como aplicar os conhecimentos adquiridos de forma mais criativa e prática.
+
+
 13ª SEMANA --> [ 11/12/24 e 13/12/24 ]
 
 Nesta semana, continuámos a resolução da Ficha 7, com o objetivo de concluir os exercícios até esta sexta-feira. Também teremos o teste de avaliação, o que marca o final deste período.
 Fico muito contente com a minha evolução ao longo deste tempo e com os projetos que fui desenvolvendo, mesmo que sejam pequenos. Foi gratificante ver o meu progresso, e sinto que aprendi bastante, não apenas em termos de programação, mas também em como aplicar os conceitos de forma prática nos projetos e atividades.
+
+
+
+--------------
+- 2º Período -
+--------------
+
+1ª SEMANA
+
+Iniciámos o 2.º período com a realização da ficha n.º 8, retomando a rotina habitual após a pausa letiva. Tivemos também uma conversa sobre as avaliações do período anterior, o que permitiu refletir sobre o progresso feito e traçar objetivos para os próximos tempos. As aulas decorreram de forma normal, e começámos a entrar novamente no ritmo com a ficha proposta.
+
+
+2ª SEMANA
+
+Continuámos a trabalhar na ficha n.º 8 e realizámos uma atividade com legos. Nesta aula começámos a perceber como os legos podem ser usados em conjunto com programação. A atividade foi diferente e interessante, tornando a aula mais dinâmica.
+
+
+3ª SEMANA
+
+Prosseguiu a realização da ficha n.º 8 e explorámos mais um exercício prático com legos. Estas atividades práticas continuam a tornar as aulas mais dinâmicas e apelativas. Começo a sentir-me cada vez mais confortável com o tipo de raciocínio exigido neste género de exercícios, e gostei particularmente da possibilidade de ver o resultado físico do que estamos a construir, ao contrário do que acontece apenas com código.
+
+
+4ª SEMANA
+
+Mantivemos o foco na ficha n.º 8 e realizámos mais um exercício com legos. Nesta fase, já comecei a reconhecer padrões e estratégias para completar os desafios de forma mais eficaz. A utilização de blocos de programação visual foi uma mais-valia para compreender como funciona a lógica por detrás das ações, e permitiu ganhar uma nova perspetiva sobre a programação orientada a objetos, de forma mais acessível e visual.
+
+
+5ª SEMANA
+
+Concluímos mais um exercício da ficha n.º 8, novamente com legos, o que reforçou as aprendizagens adquiridas nas semanas anteriores. A interação entre os alunos e a partilha de ideias durante os desafios tornou a aula mais colaborativa. Pessoalmente, gostei muito desta atividade, pois permitiu-me aplicar o que aprendi de uma forma divertida e diferente do habitual.
+
+
+6ª SEMANA
+
+Iniciámos a ficha n.º 9 com novos desafios e voltámos a trabalhar com os legos. Estes exercícios continuam a ser bastante apelativos e ajudam a consolidar os conhecimentos através da prática. Além de consolidar a lógica de programação, as tarefas envolveram também coordenação e pensamento espacial, tornando a experiência mais completa.
+
+
+7ª SEMANA
+
+Demos continuidade à ficha n.º 9, realizando mais um exercício com legos. O desafio foi semelhante aos anteriores, mas exigiu maior precisão na construção e execução dos comandos. O ambiente de aula manteve-se dinâmico e envolvente, o que contribuiu para o entusiasmo geral. Voltei a sentir grande interesse por esta abordagem, que considero uma excelente forma de aprender a programar.
+
+
+8ª SEMANA
+
+Apresentámos os trabalhos desenvolvidos ao longo das atividades com legos. Foi interessante ver as diferentes interpretações e soluções criadas pelos colegas, o que demonstrou como o mesmo problema pode ser resolvido de várias formas. Esta partilha de experiências foi enriquecedora e permitiu aprender com os erros e sucessos dos outros.
+
+
+9ª SEMANA
+
+Concluímos as apresentações dos trabalhos com legos, encerrando assim esta fase prática. Esta sequência de aulas foi muito útil para consolidar os conhecimentos através da experimentação, e permitiu desenvolver tanto competências técnicas como a capacidade de trabalhar em grupo.
+
+
+10ª SEMANA
+
+Iniciámos um novo tema: multimédia. Começámos por criar um cartaz alusivo ao "Dia do Pi", utilizando ferramentas de edição de imagem. A atividade foi desafiante mas bastante interessante, pois permitiu aplicar a criatividade e explorar uma área diferente da programação. Também concluímos a ficha n.º 9. Considero que este novo tema será bastante interessante, e estou motivado para aprender mais sobre ferramentas visuais.
+
+
+11ª SEMANA
+
+Demos continuidade ao trabalho iniciado na semana anterior e realizámos uma atividade de edição de imagem. Foi uma experiência muito positiva, pois gosto particularmente deste tipo de trabalho criativo. Sinto que tenho mais afinidade com a área da edição de imagem do que com a programação tradicional, o que me deixou motivado para as próximas aulas.
